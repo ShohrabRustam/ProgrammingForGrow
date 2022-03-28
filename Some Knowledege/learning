@@ -29,3 +29,8 @@
     // int b1(3);
     // cout <<"The value of a1 using functional Initialization : "<<a1<<endl;
     // cout <<"The value of b1 : using functional Initialization : "<<b1<<endl;
+
+    // Notation Initialization 
+
+    // cout << "The value of var1 using the assignment notation Initialization is : " << var1 << endl;
+    // cout << "The value of var2 using the assignment notation Initialization is : " << var2 << endl;
