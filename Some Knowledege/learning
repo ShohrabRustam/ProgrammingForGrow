@@ -8,9 +8,9 @@ std ::cin
 
 //print error to the console
 std ::cerr 
-i,e.. //cerr<<"Error Msg " << " Somethig is going to be wrong"<<endl;
+i,e.. //cerr<<"Error Msg " << " Somethig is going to be wrong !!  "<<endl;
 
 Printing log messages to the console 
 std :: clog
-i,e .. clog << "Somethig Log "
+i,e .. clog << "Log messages: "<<" Something is Happen !! "<<endl;
 
