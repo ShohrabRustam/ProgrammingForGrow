@@ -1,0 +1,11 @@
+//Printing data to console (terminal )
+std::cout
+
+//Reading data from the terminal 
+std ::cin 
+
+//print error to the console
+std ::cerr 
+
+Printing log messages to the console 
+std :: clog
