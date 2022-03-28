@@ -1,11 +1,16 @@
 //Printing data to console (terminal )
 std::cout
+i,e .. cout <<variable or "what ever we want "
 
 //Reading data from the terminal 
 std ::cin 
+//i,e.. cin >>variable 
 
 //print error to the console
 std ::cerr 
+i,e.. //cerr<<"Error Msg " << " Somethig is going to be wrong"<<endl;
 
 Printing log messages to the console 
 std :: clog
+i,e .. clog << "Somethig Log "
+
