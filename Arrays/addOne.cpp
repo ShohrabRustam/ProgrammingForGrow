@@ -5,14 +5,16 @@
 
 using namespace std;
 
-vector<int> addOne(vector<int> &A){
-
+vector<int> addOne(vector<int> &A)
+{
         // increment the last element 
     	A[A.size()-1]++;
 
+        // itrate all elements of vector 
         for(int i=A.size();i>=0;i--){
             // check condition for the first index
-            if(i==0){
+            if(i==0)
+            {
                 if(A[i]==0){
                     A.erase(A.begin());
                 }
