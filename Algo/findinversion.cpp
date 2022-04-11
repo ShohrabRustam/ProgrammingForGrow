@@ -1,6 +1,5 @@
 #include<iostream>
 #include<vector>
-#include<vector>
 using namespace std;
 int inversion(int a[],int n){
     int count = 0;
