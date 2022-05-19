@@ -6,10 +6,10 @@ float j= 9.6;
 char a='a';
 string s= "hello";
 
-cout <<"Size of int "<<sizeof(i)<<endl;
-cout <<"Size of float "<<sizeof(j)<<endl;;
-cout <<"Size of char"<<sizeof(a)<<endl;
-cout <<"Size of string "<<sizeof(s)<<endl;
+cout <<"Size of int is : "<<sizeof(i)<<endl;
+cout <<"Size of float is : "<<sizeof(j)<<endl;;
+cout <<"Size of char is : "<<sizeof(a)<<endl;
+cout <<"Size of string is : "<<sizeof(s)<<endl;
 
 return 0;
 }
