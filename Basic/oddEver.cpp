@@ -9,6 +9,5 @@ if(a%2==0){
 }else{
 cout <<"Number is Odd "<<endl;
 }
- // write your code here  
 return 0;
 }
