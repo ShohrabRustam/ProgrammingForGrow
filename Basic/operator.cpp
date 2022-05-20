@@ -15,5 +15,7 @@ cout <<"Divide the numbers is : "<<(float)a/b<<endl;
 cout <<"Multiply the numbers is : "<<a*b<<endl;
 cout <<"Modulo the numbers is : "<<a%b<<endl;
 
+ a++;
+cout <<"The value of the first number is afer increment : "<<a<<endl;
 return 0;
 }
