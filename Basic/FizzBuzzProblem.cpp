@@ -9,3 +9,13 @@ cout <<"Enter the Second number"<<endl;;
 cin >> num2;
 for(int i=num1;i<=num2;i++){
     if(i%15==0) 
+    cout <<"(Fizz Buzz)"<<endl;
+    else if(i%3==0)
+        cout <<"(Fizz)"<<" ";
+    else if(i%5==0)
+        cout <<"(Buzz)"<<" ";
+    else 
+    cout <<i<<endl;
+}
+return 0;
+}
