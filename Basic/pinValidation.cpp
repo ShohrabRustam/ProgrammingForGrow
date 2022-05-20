@@ -13,10 +13,10 @@ do{
     }
 }while(errorCounter<3 && pin!=UserPin);
 if(errorCounter<3){
-    cout << "Loading..."<< endl;
+    cout << "Correct Loading..."<< endl;
 }else
 {
-    cout << "You has been Blocked..."<< endl;
+    cout << "You tried many times So ,You have Blocked..."<< endl;
 }
 return 0;
 }
