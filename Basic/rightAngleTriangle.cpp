@@ -3,7 +3,7 @@ using namespace std;
 int main(){
     int i, j, rows;
     char symbol = '*';
-    cout << "\n\n Display the pattern like right angle triangle with right justified using digits:\n";
+    cout << "\n\n Display the pattern right angle\n";
     cout << "-------------------------------------------------------------------------------------\n";
     cout << " Input number of rows: ";
     cin >> rows;
