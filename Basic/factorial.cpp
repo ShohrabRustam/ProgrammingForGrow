@@ -16,7 +16,7 @@ return 0;
     for(int i=1;i<=number;i++){
         factorial=factorial*i;
     }
-cout<<"Factorial of "<<number<<" is : "<<factorial<<endl;
+cout<<"Factorial of "<<number<<"! is : "<<factorial<<endl;
 return 0;
 }
 return 0;
