@@ -10,6 +10,6 @@ int main(){
            sum+=grade;
     }
     cout <<"Sum of grade : "<<sum<<endl;
-    cout <<"Average of grade : "<<sum/3<<endl;
+    cout <<"Average of grade : "<<(float)sum/3<<endl;
     return 0;
 }
