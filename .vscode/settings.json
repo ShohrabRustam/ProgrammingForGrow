@@ -44,6 +44,8 @@
         "stdexcept": "cpp",
         "streambuf": "cpp",
         "typeinfo": "cpp",
-        "learning": "cpp"
+        "learning": "cpp",
+        "iomanip": "cpp",
+        "chrono": "cpp"
     }
 }
