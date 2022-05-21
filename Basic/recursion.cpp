@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 template<class T>
-int sum(T n, T m){
+int recursive_sum(T n, T m){
     int sum = 0;
     for(int i=n; i<=m; i++) 
     sum +=i;
@@ -16,6 +16,6 @@ cin >> n;
 int m ;
 cout << "Enter the First numbers" << endl;
 cin >> m;
-cout<<endl<<sum(n,m)<<endl;
+cout<<endl<<recursive_sum(n,m)<<endl;
 return 0;
 }
