@@ -24,6 +24,7 @@ public:
     }
     void print()
     {
+        cout <<"OUTPUT : " << endl ;
         cout << real << " + i" << imag << '\n';
     }
 };
