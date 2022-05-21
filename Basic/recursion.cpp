@@ -2,10 +2,9 @@
 using namespace std;
 template<class T>
 int recursive_sum(T n, T m){
-    int sum = 0;
-    for(int i=n; i<=m; i++) 
-    sum +=i;
-    return sum;
+    if(n==m) 
+    return n;
+    return n + recursive_sum(n+1,m);
 }
 int main(){
 //sum of between two numbers
