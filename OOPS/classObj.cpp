@@ -31,13 +31,13 @@ int main()
     {
         cout << employess << "    ";
     }
-cout << endl;
+    cout << endl;
     Organization object1;
     object1.orgName = "Mpokket PVT";
     object1.ceoName = "Ajay Jalan ";
     object1.desc = "The Best Organization IN Fintec";
     object1.numbersOfEmployees = 1700;
-    object1.bestEmployees = { "Umme Salma","Shohrab Rustam", "Hanvesh", "Abhishek "};
+    object1.bestEmployees = {"Umme Salma", "Shohrab Rustam", "Hanvesh", "Abhishek "};
     object1.aboutCompany();
     for (string employess : object1.bestEmployees)
     {
