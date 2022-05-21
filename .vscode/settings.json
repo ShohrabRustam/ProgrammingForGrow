@@ -46,6 +46,7 @@
         "typeinfo": "cpp",
         "learning": "cpp",
         "iomanip": "cpp",
-        "chrono": "cpp"
+        "chrono": "cpp",
+        "valarray": "cpp"
     }
 }
