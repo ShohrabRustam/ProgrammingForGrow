@@ -19,5 +19,8 @@ int main()
     }
     cout << endl;
     delete[] myArray;
+    cout << endl;
+    cout <<"Try to access the array  after delete getting the garabage value " << endl;
+    cout <<myArray[0];
     return 0;
 }
