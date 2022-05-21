@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 template<class T>
-int recursive_sum(T n, T m){
+T recursive_sum(T n, T m){
     if(n==m) 
     return n;
     return n + recursive_sum(n+1,m);
