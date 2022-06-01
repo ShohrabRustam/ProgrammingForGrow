@@ -106,5 +106,8 @@
         "**/*_adt.pvs": false,
         "**/*.log": true,
         "**/.vscode": true
+    },
+    "[pvs]": {
+        "editor.wordSeparators": "`~!@#$%^&*()-=+[{]}|;:'\",.<>/"
     }
 }
