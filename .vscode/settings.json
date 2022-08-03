@@ -45,7 +45,52 @@
         "streambuf": "cpp",
         "typeinfo": "cpp",
         "learning": "cpp",
+<<<<<<< HEAD
         "regex": "cpp"
+=======
+        "iomanip": "cpp",
+        "chrono": "cpp",
+        "valarray": "cpp",
+        "typeindex": "cpp",
+        "any": "cpp",
+        "barrier": "cpp",
+        "bitset": "cpp",
+        "cfenv": "cpp",
+        "charconv": "cpp",
+        "cinttypes": "cpp",
+        "codecvt": "cpp",
+        "complex": "cpp",
+        "condition_variable": "cpp",
+        "coroutine": "cpp",
+        "csetjmp": "cpp",
+        "csignal": "cpp",
+        "cstring": "cpp",
+        "ctime": "cpp",
+        "cuchar": "cpp",
+        "forward_list": "cpp",
+        "list": "cpp",
+        "map": "cpp",
+        "set": "cpp",
+        "unordered_set": "cpp",
+        "optional": "cpp",
+        "ratio": "cpp",
+        "regex": "cpp",
+        "source_location": "cpp",
+        "fstream": "cpp",
+        "future": "cpp",
+        "latch": "cpp",
+        "mutex": "cpp",
+        "ranges": "cpp",
+        "scoped_allocator": "cpp",
+        "semaphore": "cpp",
+        "shared_mutex": "cpp",
+        "span": "cpp",
+        "sstream": "cpp",
+        "stop_token": "cpp",
+        "syncstream": "cpp",
+        "thread": "cpp",
+        "variant": "cpp"
+>>>>>>> origin/OOPS
     },
     "workbench.view.alwaysShowHeaderActions": true,
     "workbench.tree.renderIndentGuides": false,
@@ -65,5 +110,11 @@
         "**/*_adt.pvs": false,
         "**/*.log": true,
         "**/.vscode": true
+<<<<<<< HEAD
+=======
+    },
+    "[pvs]": {
+        "editor.wordSeparators": "`~!@#$%^&*()-=+[{]}|;:'\",.<>/"
+>>>>>>> origin/OOPS
     }
 }
